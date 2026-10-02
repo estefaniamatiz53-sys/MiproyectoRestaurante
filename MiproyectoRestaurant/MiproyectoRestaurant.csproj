@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Exe (consola) en vez de WinExe: permite ejecutar el mismo binario
+         en modo consola con el argumento "consola", sin abrir el formulario. -->
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <RootNamespace>MiproyectoRestaurant</RootNamespace>
+    <AssemblyName>MiproyectoRestaurant</AssemblyName>
+    <Product>Sistema de Control de Ventas - Restaurante</Product>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+</Project>
