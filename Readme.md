@@ -1,7 +1,7 @@
 # MiproyectoRestaurant - Sistema de Control Financiero
 
 ## Descripción
-Aplicación de escritorio desarrollada en C# (WinForms) para gestionar las ventas de un pequeño restaurante (empanadas, arepas, gaseosas y tintos), permitiendo evaluar inversión en insumos, ingresos brutos y ganancias netas en tiempo real.
+Aplicación de escritorio desarrollada en C# (WinForms) para gestionar las ventas de un pequeño restaurante (empanadas, arepas y gaseosas), permitiendo evaluar inversión en insumos, ingresos brutos y ganancias netas en tiempo real.
 
 ## Patrones de Diseño Utilizados
 - **Factory Method (Creacional):** Centraliza y desencadena la instanciación de productos base (Empanada, Arepa, Gaseosa, Tinto) sin acoplar los formularios.
